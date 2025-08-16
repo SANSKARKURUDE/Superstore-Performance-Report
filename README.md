@@ -35,7 +35,7 @@ This project involves the use of the **Sample Superstore Dataset**, a fictional 
 
 ## **Dashboard**
 
-![Superstore Performance Report]([https://github.com/SANSKARKURUDE/Superstore-Performance-Report/blob/main/Screenshot%202025-07-23%20231545.png](https://github.com/SANSKARKURUDE/Superstore-Performance-Report/blob/main/Superstore%20Performance%20Report.png))
+![Superstore Performance Report](https://github.com/SANSKARKURUDE/Superstore-Performance-Report/blob/main/Superstore%20Performance%20Report.png)
 
 ## **Insights Gained**
 - Identified the most profitable and least profitable regions and categories.
